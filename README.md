@@ -24,15 +24,3 @@ Voici la structure des fichiers présents dans ce dépôt :
 - **regression_log_multi.py** : Implémente une régression logistique multiclasse pour la classification.
 - **reseau_neurones.py** : Implémente un réseau de neurones multicouche pour la classification supervisée.
 
-## 🛠 Installation et utilisation
-
-### Prérequis
-
-Assurez-vous d'avoir Python 3.x installé sur votre machine. Il est également recommandé d'utiliser un environnement virtuel.
-
-### Installation des dépendances
-
-Installez les bibliothèques nécessaires avec pip :
-
-```bash
-pip install -r requirements.txt
